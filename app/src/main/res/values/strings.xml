@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Waktu Solat</string>
+    <string name="copyright">www.e-solat.gov.my Copyright JAKIM</string>
+    <string name="Waktu">00:00 am</string>
+    <string name="Imsak">Imsak</string>
+    <string name="Subuh">Subuh</string>
+    <string name="Syuruk">Syuruk</string>
+    <string name="Zohor">Zohor</string>
+    <string name="Asar">Asar</string>
+    <string name="Maghrib">Maghrib</string>
+    <string name="Isyak">Isyak</string>
+</resources>
